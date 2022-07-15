@@ -1,0 +1,14 @@
+.title {
+    text-align: center;
+    font-weight: bold;
+    font-family: "Times New Roman", Arial, sans-serif;
+}
+
+.list {
+    font-weight: bold;
+    color: brown;
+}
+
+a {
+    color: coral;
+}
